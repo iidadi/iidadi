@@ -1,5 +1,5 @@
 ## 😸 Hello World!
-I'm __Iida Dadi__. A student at __Jyväskylän ammattikorkeakoulu__ (University of Applied Sciences), __JAMK__ for short. I am half Finnish half Kuwaiti, living in Finland.
+I'm __Iida Dadi__. A student at __Jyväskylän ammattikorkeakoulu__ (University of Applied Sciences), __JAMK__ for short. I'm half Finnish and half Kuwaiti. Currently living in Helsinki, Finland.
 
 [<img width="240" height="100" alt="JAMK Logo" src="https://github.com/user-attachments/assets/3087eafa-8d44-4dea-924e-584a0e2229f6" />](https://www.jamk.fi/en)
 
@@ -12,5 +12,5 @@ I'm __Iida Dadi__. A student at __Jyväskylän ammattikorkeakoulu__ (University 
 - 🌍 I have lived in __Finland__, __Cyprus__, and __Bahrain__. I learned the cultures, customs, and traditions of these countries.
 - 🐈 I love animals, especially __cats__.
 
-## Projects
+## 🗃️ Projects
 > 🚧 Under Construction 🚧
