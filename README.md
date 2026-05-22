@@ -13,4 +13,14 @@ I'm __Iida Dadi__. A student at __Jyväskylän ammattikorkeakoulu__ (University 
 - 🐈 I love animals, especially __cats__.
 
 ## 🗃️ Projects
-> 🚧 Under Construction 🚧
+| JS Projects | Source Code | Description | Status |
+| ----------- | :-----------: | ----------- | ----------- |
+| [`Rating Component`]() | [LINK]() | Rating Component created using HTML, JS, and CSS. | ✅ Complete |
+| [`Calculator`]() | [LINK]() | Calculator created using HTML, JS, and CSS. | ✅ Complete |
+| [`To-do List`]() | [LINK]() | To-do List created using HTML, JS, and CSS. | ⏳ In Progress |
+
+### 🔜 Upcoming
+
+| Projects | Source Code | Description | Status |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| 🐱 | 🙀 | 😿 | 😽 |
