@@ -12,15 +12,28 @@ I'm __Iida Dadi__. A student at __Jyväskylän ammattikorkeakoulu__ (University 
 - 🌍 I have lived in __Finland__, __Cyprus__, and __Bahrain__. I learned the cultures, customs, and traditions of these countries.
 - 🐈 I love animals, especially __cats__.
 
-## 🗃️ Projects
-| JS Projects | Source Code | Description | Status |
+## 🗃️ Archive
+### 👤 Projects
+| Project Name | Source Code | Description | Status |
 | ----------- | :-----------: | ----------- | ----------- |
-| [`Rating Component`]() | [LINK]() | Rating Component created using HTML, JS, and CSS. | ✅ Complete |
-| [`Calculator`]() | [LINK]() | Calculator created using HTML, JS, and CSS. | ✅ Complete |
-| [`To-do List`]() | [LINK]() | To-do List created using HTML, JS, and CSS. | ⏳ In Progress |
+| [`Interactive Rating Component`]() | [LINK]() | Rating Component created using HTML, JS, and CSS. | ✅ Complete |
+| [`Calculator Application`]() | [LINK]() | Calculator created using HTML, JS, and CSS. | ✅ Complete |
+| [`Todo Application`]() | [LINK]() | Todo List created using HTML, JS, and CSS. | ✅ Complete |
+| [`REST API Country Application`]() | [LINK]() | Rest API App created using HTML, JS, and CSS. | ⏳ In Progress |
 
-### 🔜 Upcoming
+### 👥 Group Projects
 
-| Projects | Source Code | Description | Status |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| 🐱 | 🙀 | 😿 | 😽 |
+| Project Name | Source Code | Description | Role | Status |
+| ----------- | :-----------: | ----------- | ----------- | ----------- |
+| [`Multi-step Form`]() | [LINK]() | Rating Component created using HTML, JS, and CSS. | Project Manager | ⏳ In Progress |
+
+### 📅 Upcoming
+
+| Projects | Source Code | Status |
+| ----------- | :-----------: | :-----------: |
+| [`React REST API Country Application`]() | [LINK]() | 🛎️ |
+| [`Unnamed React Project 1`]() | [LINK]() | 🛎️ |
+| [`Unnamed React Project 2`]() | [LINK]() | 🛎️ |
+
+
+<!-- Cat squad for placeholder purposes | 🐱 | 🙀 | 😿 | 😽 |-->
